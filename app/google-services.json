@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "875892204129",
+    "project_id": "travellycompose",
+    "storage_bucket": "travellycompose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875892204129:android:8e051b2ab62b266c410020",
+        "android_client_info": {
+          "package_name": "com.eeyan.travellycompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUQ5a1ZrtxZMhtxCsXxq_G0tqGXtuuI4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
